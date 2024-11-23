@@ -1,8 +1,7 @@
 # Sergio Pereiro Díaz
 
 **Phone**: +34 693 304 177  
-**E-mail**: sergio.pereiro@gmail.com  
-**Address**: 3 Rue Abbe Jos Keup, Luxembourg L-1860  
+**E-mail**: sergio.pereiro@gmail.com    
 **DOB**: July 30, 1981, La Coruña, Spain  
 
 ---
