@@ -49,6 +49,18 @@ I am passionate about developing secure systems that not only address today's se
 - Managed web application and network security, implementing **WAF**, **IDS**, and firewall rules.
 - Developed detection strategies for technologies such as **Checkpoint**, **Snort**, **Apache**, **IIS**, and **Splunk**.
 
+### **Check 4 Cyber Sarl-S** (2018 - Present)  
+**Owner and Cybersecurity Consultant**  
+*29 Boulevard Grande Duchesse Charlotte, L-1331 Luxembourg, LUXEMBOURG*  
+**Email**: [hr@c4c.lu](mailto:hr@c4c.lu) | **CIF**: LU-31485966 | **RCS**: B237088 | **Fiscal No**: 20192450617  
+
+Check 4 Cyber Sarl-S is a cybersecurity consultancy that specializes in building, organizing, and customizing expert teams tailored to clients' needs by location, budget, and industry. We provide cybersecurity resources across all sectors, offering flexible solutions for project delivery within client timelines and cost constraints.  
+
+- **Cybersecurity Advice**: Tailoring teams to address clients’ specific challenges, from project design to implementation, adapting to different environments and industry standards.  
+- **Resources by Industry**: Providing specialized cybersecurity personnel to meet the specific needs of various industries.  
+- **Resources by Volume and Cost**: Sourcing and forming cohesive teams ready to meet project deadlines while offering competitive pricing based on market standards.
+
+
 ### August 2012 – Present | **CTO / Consultant**  
 **Echaunojo S.L.**
 
