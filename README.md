@@ -21,7 +21,7 @@ I am passionate about developing secure systems that not only address today's se
 ### January 2022 – Present | **DevSecOps Threat Detection Developer**  
 **European Commission**
 
-- Lead development for threat detection within the **OpenTIDE** framework at the DIGIT S2 department.
+- Threat detection developer within the **OpenTIDE** framework at the DIGIT S2 department.
 - Responsible for the operation of **Stamus Networks IDS** and **Arkime** as the FPC solution.
 - Develop and refine threat detection rules and automation strategies using **Splunk**.
 - Focus on security for web applications and cloud services, including managing **Azure** and **AWS** environments.
