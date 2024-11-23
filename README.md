@@ -10,7 +10,7 @@
 
 I am a **cybersecurity expert** with over **9 years of experience** specializing in **Threat Detection Development (DevSecOps)**, **Splunk**, **Spl**, and **web security technologies**. My career trajectory has evolved from **systems administration** to a focus on advanced **cybersecurity**, including **IDS**, **WAF**, **firewalls**, **reverse proxies**, and **cloud infrastructures** (Azure, AWS). 
 
-While my early career laid a solid foundation in **systems administration**, in **2012**, I transitioned fully into **cybersecurity**, where I developed expertise in **incident response**, **threat hunting**, **cloud security**, and **web application protection**. I work with **emerging technologies** like **containers**, **Machine Learning (LLM)** for anomaly detection, and have deep knowledge of **Splunk** for creating custom **detection rules** and automating monitoring.
+While my early career laid a solid foundation in **systems administration**, in **2012**, I transitioned fully into **cybersecurity**, where I developed expertise in **incident response**, **threat hunting**, **cloud security**, and **web application protection**. I´m interested in **emerging technologies** like **containers**, **Machine Learning (LLM)** for anomaly detection, and have deep knowledge of **Splunk** for creating custom **detection rules** and automating monitoring.
 
 I am passionate about developing secure systems that not only address today's security challenges but are also adaptable for future needs, with a strong focus on innovation and problem-solving in **cybersecurity**.
 
