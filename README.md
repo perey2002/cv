@@ -54,11 +54,11 @@ I am passionate about developing secure systems that not only address today's se
 *29 Boulevard Grande Duchesse Charlotte, L-1331 Luxembourg, LUXEMBOURG*  
 **Email**: [hr@c4c.lu](mailto:hr@c4c.lu) | **CIF**: LU-31485966 | **RCS**: B237088 | **Fiscal No**: 20192450617  
 
-Check 4 Cyber Sarl-S is a cybersecurity consultancy that specializes in building, organizing, and customizing expert teams tailored to clients' needs by location, budget, and industry. We provide cybersecurity resources across all sectors, offering flexible solutions for project delivery within client timelines and cost constraints.  
+Check 4 Cyber Sarl-S is a boutique cybersecurity consultancy founded and managed by myself, providing tailored cybersecurity services. While I lead all operations personally, the company remains flexible and open to potential future growth by incorporating additional qualified personnel as the business expands.
 
-- **Cybersecurity Advice**: Tailoring teams to address clients’ specific challenges, from project design to implementation, adapting to different environments and industry standards.  
-- **Resources by Industry**: Providing specialized cybersecurity personnel to meet the specific needs of various industries.  
-- **Resources by Volume and Cost**: Sourcing and forming cohesive teams ready to meet project deadlines while offering competitive pricing based on market standards.
+- **Cybersecurity Consulting**: Offering personalized advice and solutions to address specific cybersecurity challenges for clients, from project design to implementation, all managed directly by me.  
+- **Services for Small to Medium Enterprises**: Focused on delivering affordable and scalable cybersecurity services, such as web application security, cloud migrations, and compliance audits, with a commitment to quality and efficiency.  
+- **Flexible Growth Potential**: Although the company currently operates with a small team, I am open to expanding the services and hiring additional cybersecurity professionals in the future, depending on business needs.
 
 
 ### August 2012 – Present | **CTO / Consultant**  
