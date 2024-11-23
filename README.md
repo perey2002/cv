@@ -1,7 +1,7 @@
 # Sergio Pereiro Díaz
 
 **Phone**: +34 693 304 177  
-**E-mail**: sergio.pereiro@gmail.com    
+**E-mail**: spereiro@c4c.lu    
 **DOB**: July 30, 1981, La Coruña, Spain  
 
 ---
@@ -52,7 +52,7 @@ I am passionate about developing secure systems that not only address today's se
 ### **Check 4 Cyber Sarl-S** (2018 - Present)  
 **Owner and Cybersecurity Consultant**  
 *29 Boulevard Grande Duchesse Charlotte, L-1331 Luxembourg, LUXEMBOURG*  
-**Email**: [hr@c4c.lu](mailto:hr@c4c.lu) | **CIF**: LU-31485966 | **RCS**: B237088 | **Fiscal No**: 20192450617  
+**Email**: [spereiro@c4c.lu](mailto:spereiro@c4c.lu) | **CIF**: LU-31485966 |   
 
 Check 4 Cyber Sarl-S is a boutique cybersecurity consultancy founded and managed by myself, providing tailored cybersecurity services. While I lead all operations personally, the company remains flexible and open to potential future growth by incorporating additional qualified personnel as the business expands.
 
