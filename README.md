@@ -8,11 +8,13 @@
 
 ## Professional Summary
 
-I am a **cybersecurity expert** with over **9 years of experience** specializing in **Threat Detection Development (DevSecOps)**, **Splunk**, **Spl**, and **web security technologies**. My career trajectory has evolved from **systems administration** to a focus on advanced **cybersecurity**, including **IDS**, **WAF**, **firewalls**, **reverse proxies**, and **cloud infrastructures** (Azure, AWS). 
+I am an IT and cybersecurity professional with over 20 years of experience, moving from systems administration (2002–2012) into full-time cybersecurity from 2012 onward. My work spans threat detection engineering, SIEM/Splunk development, and operating defensive infrastructures at scale, including 8 years supporting the European Commission.
 
-While my early career laid a solid foundation in **systems administration**, in **2012**, I transitioned fully into **cybersecurity**, where I developed expertise in **incident response**, **threat hunting**, **cloud security**, and **web application protection**. I´m interested in **emerging technologies** like **containers**, **Machine Learning (LLM)** for anomaly detection, and have deep knowledge of **Splunk** for creating custom **detection rules** and automating monitoring.
+Since 2018 I have also led my own cybersecurity company, Check4Cyber, through which I provide consulting and detection engineering services for large organisations, combining hands-on technical knowledge with practical problem-solving.
 
-I am passionate about developing secure systems that not only address today's security challenges but are also adaptable for future needs, with a strong focus on innovation and problem-solving in **cybersecurity**.
+In recent years, I’ve developed a strong personal interest in artificial intelligence —not as a formal job role, but as a technical hobby that has become part of how I work and learn. I spend a significant amount of time building and refining AI-driven projects (e.g., LUCRITAS, LiquiWatch, SIMB, AETHERIA), exploring neural reasoning, automation, and advanced programming assisted by LLMs.
+
+My profile combines long-term cybersecurity experience with genuine curiosity for AI, giving me a balanced, forward-looking perspective on modern security engineering and intelligent automation.
 
 ---
 
