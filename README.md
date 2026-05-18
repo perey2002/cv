@@ -63,7 +63,7 @@ Check 4 Cyber Sarl-S is a boutique cybersecurity consultancy founded and managed
 - **Flexible Growth Potential**: Although the company currently operates with a small team, I am open to expanding the services and hiring additional cybersecurity professionals in the future, depending on business needs.
 
 
-### August 2012 – Present | **CTO / Consultant**  
+### August 2012 – January 2026 | **CTO / Consultant**  
 **Echaunojo S.L.**
 
 - Owner and partner responsible for cybersecurity and systems consulting.
