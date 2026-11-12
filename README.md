@@ -21,7 +21,7 @@ My strength is combining deep security operations experience with a broad engine
 
 - **Detection Engineering & SIEM:** Splunk SPL, `tstats`, data models, detection rules, risk-based alerting (RBA), MDR use cases, enrichment, correlation, tuning and false-positive reduction.
 - **SOC & Incident Response:** threat hunting, triage, investigation, NIDS/IDS/IPS, SIEM operations, network traffic and web application security analysis.
-- **Security Tooling:** OpenTIDE, Stamus Networks IDS, Arkime, Cisco Firepower, Snort, ArcSight ESM/Logger, McAfee ESM, Proofpoint and Splunk.
+- **Security Tooling:** OpenTIDE, Stamus Networks IDS, Cisco Firepower, Snort, ArcSight ESM/Logger, McAfee ESM, Proofpoint and Splunk.
 - **Security Architecture & Cloud:** WAF, reverse proxies, exposure assessment, vulnerability management, AWS, Azure and enterprise security controls.
 - **Software & Infrastructure:** Linux, Windows Server, Docker/Compose, Git/GitHub, Nginx, Apache, JavaScript, PHP/Laravel, MySQL, Redis, APIs and deployment workflows.
 - **Applied AI & Automation:** Ollama, Qwen, OpenClaw, local LLM inference, agent experimentation and AI-assisted software engineering.
@@ -35,7 +35,7 @@ My strength is combining deep security operations experience with a broad engine
 **European Commission — DIGIT S2**
 
 - Develop, maintain and refine threat detection content within the **OpenTIDE** framework.
-- Support the operation of **Stamus Networks IDS** and **Arkime** for network detection and full-packet-capture investigation.
+- Support the operation of **Stamus Networks IDS** for network threat detection and investigation.
 - Engineer and tune **Splunk** detection logic, including advanced SPL searches, data model analytics, risk-based detection use cases, automation and noise reduction.
 - Analyse web application and service exposure patterns, security events and HTTP telemetry to improve detection quality.
 - Work on security monitoring involving web applications and cloud environments, including **Azure** and **AWS**.
@@ -116,7 +116,7 @@ Mobile-first, local-processing audiovisual application featuring facial and voic
 **Focus:** modular JavaScript, Web Audio API, multimedia processing, performance and mobile UX.
 
 ### Local AI & Agent Engineering
-Practical experimentation with **OpenClaw**, **Ollama** and **Qwen**, including local LLM inference, WSL networking, GPU acceleration and agent configuration. Additional personal projects include **LUCRITAS, LiquiWatch, SIMB and AETHERIA**, exploring AI-assisted programming, automation and reasoning.
+Practical experimentation with **OpenClaw**, **Ollama** and **Qwen**, including local LLM inference, WSL networking, GPU acceleration and agent configuration. Other private experiments focus on AI-assisted programming, automation and reasoning.
 
 ---
 
