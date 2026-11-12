@@ -42,6 +42,7 @@ My strength is combining deep security operations experience with a broad engine
 
 ### November 2017 – December 2021 | Security SOC Analyst
 **European Commission**
+**Location:** Luxembourg
 
 - Operated **Cisco Firepower NIDS** and tuned **Snort** signatures for diverse environments.
 - Investigated incidents and analysed security logs using **ArcSight ESM**, **Logger** and other SIEM tools.
